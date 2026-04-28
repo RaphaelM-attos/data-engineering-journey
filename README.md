@@ -6,7 +6,7 @@ Documenting my path from QA/Automation to Data Engineering.
 
 ### SQL
 - [X] SQLBolt Lessons 1-6
-- [ ] SQLBolt Lessons 7-12
+- [X] SQLBolt Lessons 7-12
 - [ ] SQLBolt Lessons 13-18
 - [ ] Kaggle — Intro to SQL
 
